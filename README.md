@@ -33,5 +33,5 @@ py -3 -m pip install -U disnake-ext-ipc
 ## License
 
 Copyright (c) 2020 Ext-Creators  
-Copyright (c) 2021 Nextcord Developers
-Copyright (c) 2022 Lukef
+Copyright (c) 2021 Nextcord Developers  
+Copyright (c) 2022 Lukef  
