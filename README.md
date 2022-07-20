@@ -28,7 +28,7 @@ py -3 -m pip install -U disnake-ext-ipc
 - [Usage Examples](https://github.com/LukeFokin/disnake-ext-ipc/tree/master/examples)
 - [Support Discord Server](https://discord.gg/disnake)
 
-- [Original code](https://github.com/nextcord/nextcord-ext-ipc)
+- [Original code Nextcord](https://github.com/nextcord/nextcord-ext-ipc)
 
 ## License
 
