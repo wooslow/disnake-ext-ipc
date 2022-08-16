@@ -4,8 +4,8 @@ import os
 
 
 project = "disnake-ext-ipc"
-copyright = "2021, disnake"
-author = "disnake"
+copyright = "2021, lukef"
+author = "lukef"
 
 sys.path.insert(0, os.path.abspath(".."))
 

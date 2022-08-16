@@ -37,9 +37,6 @@ extras_require = {
     ],
 }
 
-with open("requirements.txt") as stream:
-    install_requires = stream.read().splitlines()
-
 packages = [
     "disnake.ext.ipc",
 ]
@@ -79,7 +76,6 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     extras_require=extras_require,
-    install_requires=install_requires,
     license="Apache Software License",
     name="disnake-ext-ipc",
     packages=packages,
